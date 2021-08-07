@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #FFFFFF;
+}
+.main{
+display: flex;
+
+margin: 20px 450px;
+width: 600px;
+}
+.man{
+    height: 80px;
+}
+.Organization{
+    color: rgb(6, 6, 7);
+    font-size: 40px;
+    margin-top: 10px;
+}
+.span1{
+    
+    color: #FB9A0C;
+}
+.span2{
+    color: #fc4437;
+}
+.allinput{
+   
+    margin-left: 400px;
+    
+    width: 600px;
+    background: linear-gradient(145deg, #FFFFFF, #f3f0f0);
+    border-radius: 7%;
+    box-shadow: inset 5.11px 5.11px 17px #E4E4E4, inset -5.11px -5.11px 17px #FFFFFF;
+}
+.frist{
+    margin-left: 50px;
+    
+}
+.namel{
+    font-size: 22px;
+    font-weight: 500;
+}
+.namep{
+    width: 500px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.Submit{
+height: 40px;
+width: 300px;
+background: #FB9A0C;
+border-radius: 3px;
+margin-left: 150px;
+font-size: 18px;
+font-weight: 600;
+color: blanchedalmond;
+}
+   
+ .Submit:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: rgb(2, 1, 1);
+   text-decoration: none;
+   background: rgb(255, 255, 255);
+ }
+.tabled{
+    width: 600px;
+    margin: 100px 385px;
+    font-size: 22px;
+    color: #fc4437;
+}
+ .listshow{
+        color: black;
+    }
